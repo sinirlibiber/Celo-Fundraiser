@@ -2,6 +2,8 @@
 
 A decentralized fundraising platform built on the Celo blockchain, enabling instant cUSD donations with near-zero fees. Create campaigns, share links, and receive donations with just one tap.
 
+# Celo Fundraiser [Live MiniApp](https://farcaster.xyz/miniapps/kCeck2Az4Bfx/celo-fundraiser)
+
 ![Built on Celo](https://img.shields.io/badge/Built%20on-Celo-35D07F?style=for-the-badge&logo=celo)
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?style=for-the-badge&logo=typescript)
