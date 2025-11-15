@@ -1,0 +1,26 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Celo Fundraiser",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_a2f0dc46-71a1-4ed8-bbc4-82c060e125e0-U68d3r7H3DE0IeE66ge8xXpXrzZ1se",
+    "homeUrl": "https://queen-anyway-821.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_a2f0dc46-71a1-4ed8-bbc4-82c060e125e0-U68d3r7H3DE0IeE66ge8xXpXrzZ1se",
+    "buttonTitle": "Open with G",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Celo Fundraiser",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_a2f0dc46-71a1-4ed8-bbc4-82c060e125e0-U68d3r7H3DE0IeE66ge8xXpXrzZ1se"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  }
+}
